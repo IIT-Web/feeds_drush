@@ -1,0 +1,5 @@
+name = Drush commands for Feeds
+description = Supplies drush commands for the feeds module.
+package = Feeds
+core = 7.x
+dependencies[] = feeds
